@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/required/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/required/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/bytecode/cglib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate3.3_annotations3.4/hibernate-annotations-3.4.0.GA/lib/build/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate3.3_annotations3.4/hibernate-annotations-3.4.0.GA/lib/test/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/c3p0/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/ehcache/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/infinispan/infinispan-core-4.0.0.FINAL.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/jbosscache/jbosscache-core-3.2.1.GA.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/oscache/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/proxool/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/optional/swarmcache/swarmcache-1.0RC2.jar"/>
+	<classpathentry kind="lib" path="E:/WXY/Hibernate/hibernate-distribution-3.5.4-Final/lib/jpa/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="querydsl-jdo-2.2.1-apt-one-jar.jar"/>
+	<classpathentry kind="lib" path="javaee-api-5.jar"/>
+	<classpathentry kind="lib" path="jgroups-all-2.4.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools-3.2.3.GA.jar"/>
+	<classpathentry kind="lib" path="slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
